@@ -12,18 +12,6 @@ Word Similarity: Employs techniques like edit distance or n-gram comparison to i
 Contextual Understanding: Considers the surrounding context to provide more relevant suggestions.
 Customization: Allows for customization of the correction algorithm and corpus.
 Efficiency: Optimizes performance for real-time applications.
-Usage:
-
-Install required libraries:
-Bash
-pip install nltk
-Use code with caution.
-
-Download a suitable corpus (e.g., Brown Corpus, Gutenberg Corpus).
-Run the script:
-Bash
-python word_corrector.py
-Use code with caution.
 
 Enter the word or text you want to correct.
 Example:
